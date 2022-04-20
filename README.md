@@ -19,7 +19,7 @@
 
 ### Projects:
 - **Python:** Assignment to produce a [ms-paint like](https://github.com/potaSasta/mPaint) program in python3 with the help of tkinter.
-- **SQL**: Assignment to create a basic backend for an online bookshop using triggers. 
+- **SQL**: Assignment to create a basic backend for an [online bookshop](https://github.com/potaSasta/SQL_BookStore) using triggers. 
 - **R:** Multiple assignments covering regression modeling (linear & multiple) in a broad array of scenarios.
 - **MongoDB / Python**: created a program to take numerous csv's of relational tables, join in a specifed manner and output dictionaries to input into MongoDB with PyMongo
 
@@ -46,7 +46,7 @@
 - Completed a three month stint in a fast paced classical kitchen in the south-west of France while learning French.
 
 ### IT Related Achievements and Self Taught Skills:
-- Wrote a Linear Algebra, [Stats](https://github.com/potaSasta/stats), & Calculus calculator from scratch in Python, w/o relying heavily on libraries like numpy, scipy etc. 
+- Wrote a [Linear Algebra, Stats, & Calculus calculator](https://github.com/potaSasta/Maths) from scratch in Python, w/o relying heavily on libraries like numpy, scipy etc. 
 - WIP - a program to take numerous .csv files of transactions from kraken.com (a crypto exchange) and determine tax due.
 - Git workflow.
 - Linux envrionments, dual-boot systems, virtual machines.
