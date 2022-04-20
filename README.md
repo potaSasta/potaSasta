@@ -1,6 +1,9 @@
 # Marcus Prunty - CV
 **e-mail:** marcusprunty@gmail.com 
+
 **LinkedIn: [.../in/marcusprunty/](https://www.linkedin.com/in/marcusprunty/)**
+
+**GitHub:** [.../potaSasta](https://github.com/potaSasta)
 
 ### Education:
 ###### 2020 - present : University College Cork, Ireland 
