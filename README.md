@@ -21,7 +21,7 @@
 ### Projects:
 - **Python:** Assignment to produce a [ms-paint like](https://github.com/potaSasta/mPaint) program in python3 with the help of tkinter.
 - **SQL**: Assignment to create a basic backend for an [online bookshop](https://github.com/potaSasta/SQL_BookStore) using triggers. 
-- **R:** Multiple assignments covering regression modeling (linear & multiple) in a broad array of scenarios.
+- **R:** [Multiple assignments](https://github.com/potaSasta/R_Assignments) covering regression modeling (linear & multiple) in a broad array of scenarios.
 - **MongoDB / Python**: created a program to take numerous csv's of relational tables, join in a specifed manner and output dictionaries to input into MongoDB with PyMongo
 
 ### Other Education:
