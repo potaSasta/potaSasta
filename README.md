@@ -1,5 +1,5 @@
 # Marcus Prunty - CV
-*e-mail:** marcusprunty@gmail.com 
+**e-mail:** marcusprunty@gmail.com 
 **LinkedIn: [.../in/marcusprunty/](https://www.linkedin.com/in/marcusprunty/)**
 
 ### Education:
