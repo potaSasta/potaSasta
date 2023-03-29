@@ -7,10 +7,10 @@
 </div>
 
 ### Education: 
-###### 2023 -present: 42 London, UK
-- **Piscine:**  Completed the 1st of 3 stages as part of the 1st cohort at [42's new London campus](https://42london.com/).
+###### 2023 - present: 42 London, UK
+- **Piscine:**  Completed the 1st of 3 stages as part of the 1st cohort at 42's new London campus.
 - An intensive peer to peer based learning course covering the fundamentals of C, Bash scripting, Linux and Vim
-- Essentially rewrote some of C's std libraries
+- Rewrote and implemented many of the functions contained in C's stdlib.h and string.h
 
 ###### 2020 - 2022 : University College Cork, Ireland 
 - **BSc, Data Science & Analytic’s** 
@@ -22,11 +22,12 @@
 - **Results:** 2.1 ~ 68% , including; Physics 80%, Maths 68%, Academic Tech 87%, Academic Study Skills 84%
 
 ### Skills:
-- **Languages:** Python, Bash, R, Java, SQL, MongoDB, MariaDB.
+- **Languages:** Python, C, Bash, R, Java, SQL, MongoDB, MariaDB.
 - **Applications:** VSCode, Nano ,Vim, Eclipse, MySQL, Git,  VirtualBox, Docker, GIMP, Canva, NetBeans, Microsoft/Libre office.
 - **Systems:** UNIX/Linux (daily driver), Rasbian, Android OS, Windows 98/XP/Vista/7/10, MS DOS.
 
 ### Projects:
+- **C:** implemented many of the functions contained in stdlib.h and string.h
 - **Python:** Assignment to produce a ms-paint like program in python3 with the help of tkinter.
 - **SQL**: Assignment to create a basic backend for an online bookshop using triggers. 
 - **R:** Multiple assignments covering regression modeling (linear & multiple) in a broad array of scenarios.
