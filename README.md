@@ -1,8 +1,7 @@
 # <div align="center"> Marcus Prunty - CV </div>
 <div align='center'> 
 
-**Phone:** +44 (0) 7500 834 316    &nbsp; &nbsp; **e-mail:** marcusprunty@gmail.com  
-**Address:** New Place Square, SE16 2HR      &nbsp; &nbsp;  **LinkedIn: [.../in/marcusprunty/](https://www.linkedin.com/in/marcusprunty/)** 
+**e-mail:** marcusprunty@gmail.com  &nbsp; &nbsp;  **LinkedIn: [.../in/marcusprunty/](https://www.linkedin.com/in/marcusprunty/)** 
 
 </div>
 
